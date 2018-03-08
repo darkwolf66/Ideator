@@ -1,0 +1,4 @@
+<?php
+	$explore_menu = "";
+	
+?>
